@@ -1,13 +1,9 @@
-# I teamed up with Sangar to bring [OC2](https://github.com/fnuecke/oc2/) to Forge & Fabric
-## This project is currently on hold
+![Welcome to OC:Tweaked](src/main/resources/assets/opencomputers/banner.png)
 
+![build](https://github.com/BomberPlayz/OC-Tweaked/workflows/build/badge.svg)
+[![nightly](https://img.shields.io/badge/Builds-nightly-blue)](https://nightly.link/BomberPlayz/OC-Tweaked/workflows/build/master-MC1.16/Artifacts.zip)
 
-![Welcome to OpenComputers](src/main/resources/assets/opencomputers/banner.png)
-
-![build](https://github.com/lucsoft/OpenComputers/workflows/build/badge.svg)
-[![nightly](https://img.shields.io/badge/Builds-nightly-blue)](https://nightly.link/lucsoft/OpenComputers/workflows/build/master-MC1.16/Artifacts.zip)
-
-OpenComputers is a Minecraft mod that adds programmable computers and robots to the game. The built-in computer implementation uses Lua 5.4 and is fully persistent. This means programs will continue running across reloads. For more information, please [see the wiki][wiki]. Feel invited to visit the [community forums][forums] or drop by in the [IRC channel #oc on esper.net][irc].
+OC:Tweaked is a Minecraft mod that adds programmable computers and robots to the game. The built-in computer implementation uses Lua 5.4 and is fully persistent. This means programs will continue running across reloads. For more information, please [see the wiki][wiki]. Feel invited to visit the [community forums][forums] or drop by in the [IRC channel #oc on esper.net][irc].
 
 A few useful links:
 * [Minecraft Forum Thread][mcf]
